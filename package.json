@@ -20,7 +20,7 @@
   "dependencies": {
     "exit": "^0.1.2",
     "glob": "^3.2.11",
-    "jasmine-core": "https://github.com/xolvio/jasmine/archive/fd68609b298a488ff0eded4c6592f858cde2a71a.tar.gz"
+    "jasmine-core": "https://github.com/xolvio/jasmine/archive/624c5bb46beda1ae07c24a9662134b31fe4425b5.tar.gz"
   },
   "bin": "./bin/jasmine.js",
   "main": "./lib/jasmine.js",
